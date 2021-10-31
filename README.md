@@ -4,7 +4,9 @@ Free Proxy API powered by [ProxyDig.com](https://proxydig.com/)
 
 ## Curl
 
-```curl --request GET 'https://proxydig.com/api/proxies/?apikey='```
+```curl
+curl --request GET 'https://proxydig.com/api/proxies/?apikey='
+```
 
 ## Python
 
